@@ -11,7 +11,9 @@ async function generateImage(req: NextRequest) {
   };
 
   try {
-    const response = await route.POST(req);
+    const response = await route.POST(req, {
+      headers: headers
+    });
     return response;
   } catch (error) {
     console.error('Image generation failed:', error);
@@ -21,11 +23,7 @@ async function generateImage(req: NextRequest) {
 
 export const POST = async (req: NextRequest) => {
   const url = req.headers.get("x-fal-target-url");
-  if (!url) {
-    return new Response("Not found", { status: 404 });
-  }
-
-  if (!URL_ALLOW_LIST.includes(url)) {
+  if (!url || !URL_ALLOW_LIST.includes(url)) {
     return new Response("Not allowed", { status: 403 });
   }
 

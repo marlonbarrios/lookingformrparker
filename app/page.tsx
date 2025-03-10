@@ -260,7 +260,8 @@ He switched to Spanish. Slow, deliberate, the words thick with his "gringo" acce
 Goosebumps rose on my arms, even though it was warm. He smiled. I remember that. And the sound of his voice. And something else, something like seeing a shadow before it arrives. Like knowing what's coming, even if you don't have the words for it yet. It was all there, in his voice, in the way he spoke. I couldn't see the boat. Couldn't see anything else. Just him. The way his arms moved, the way his skin flushed under the sun. The words didn't matter. I didn't understand it all, but I didn't need to. It stayed with me.`;
 
 fal.config({
-  credentials: process.env.NEXT_PUBLIC_FAL_KEY,
+  credentials: process.env.FAL_KEY,
+  proxyUrl: "/api/proxy"
 });
 
 const INPUT_DEFAULTS = {
