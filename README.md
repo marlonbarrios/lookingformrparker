@@ -6,8 +6,14 @@ Live app: [Looking for Mr. Parker](https://lookingformrparker.vercel.app/)
 
 ## About
 
+<img width="1787" alt="Screenshot 2025-03-09 at 9 36 33 PM" src="https://github.com/user-attachments/assets/527aaf84-3fcb-4c9b-8030-a66a6514ff6d" />
+
+
+
+
 "Looking for Mr. Parker" is an interactive artwork that generates intimate portrait fragments of a remembered figure from 1960s Venezuela. Through AI-generated imagery and poetic text, it explores themes of memory, masculinity, cultural intersection, and childhood awakening.
 
+<img width="1787" alt="Screenshot 2025-03-09 at 9 36 52 PM" src="https://github.com/user-attachments/assets/3d7faf26-4720-4c83-8965-df32c6d5de2d" />
 ## The Story
 
 *Transcribed from the scrolling text in the application:*
@@ -28,6 +34,8 @@ He switched to Spanish. Slow, deliberate, the words thick with his "gringo" acce
 - Dynamic image grid layout
 - Ambient sound design
 - Responsive design
+
+<img width="1787" alt="Screenshot 2025-03-09 at 9 36 40 PM" src="https://github.com/user-attachments/assets/1388bbc0-a8a6-49b8-8b6f-e926abfed57e" />
 
 ## Controls
 - Press [space] to generate new images
