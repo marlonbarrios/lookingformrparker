@@ -244,6 +244,18 @@ const EXPRESSIONS = [
   {
     prompt: "intimate portrait of Mr. Parker's face, 30s caucasian man, blue eyes crinkled in genuine smile, blonde hair falling across forehead, light stubble catching light, speaking Spanish with care, workshop atmosphere, Kodachrome's warmth, shot on Hasselblad",
     mood: "genuine smile"
+  },
+  {
+    prompt: "extreme macro of Mr. Parker's neck and jawline, 40 year old caucasian man, 1960s Venezuela, tanned skin with fine blonde hair, crystal blue eyes visible in profile, tropical light catching sweat beads, workshop atmosphere, Kodachrome's detail, shot on Hasselblad macro",
+    mood: "strong neck"
+  },
+  {
+    prompt: "ultra close up of temple detail, Mr. Parker 40 year old caucasian man, blonde hair falling across, intense blue eyes in side view, skin flushed from work, afternoon light creating ethereal glow, Venezuelan heat evident, Kodachrome's rendering, shot on Nikon F macro",
+    mood: "temple detail"
+  },
+  {
+    prompt: "intimate detail of neck and throat, Mr. Parker 40 year old caucasian man, strong masculine features, azure eyes glimpsed from angle, sweat trailing down tanned skin, workshop dust catching light, Kodachrome's texture, shot on Rolleiflex macro",
+    mood: "noble throat"
   }
 ];
 
