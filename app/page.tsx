@@ -130,16 +130,16 @@ const EXPRESSIONS = [
     mood: "powerful form"
   },
   {
-    prompt: "extreme macro of Mr. Parker's neck pulse, 35 years old caucasian man, 1960s Venezuela, visible heartbeat under tanned skin, fine blonde hair catching tropical light, sweat beading, Kodachrome's detail, shot on Hasselblad macro",
-    mood: "beating pulse"
+    prompt: "extreme macro of Mr. Parker's neck, 40 year old caucasian man, 1960s Venezuela, tanned skin with fine blonde hair, tropical light catching sweat beads, workshop atmosphere, Kodachrome's detail, shot on Hasselblad macro",
+    mood: "strong neck"
   },
   {
-    prompt: "ultra close up of Mr. Parker's collarbone, 35 years old caucasian man, sunburnt skin with light sheen, sleeveless shirt edge, workshop sweat glistening, dust motes in sunbeams, Kodachrome's texture, shot on Leica macro",
-    mood: "golden collar"
-  },
-  {
-    prompt: "intimate detail of Mr. Parker's temple vein, 35 years old caucasian man, throbbing under skin, blonde hair falling across, afternoon light creating ethereal glow, Venezuelan heat evident, Kodachrome's rendering, shot on Nikon F macro",
+    prompt: "ultra close up of temple detail, Mr. Parker 40 year old caucasian man, blonde hair falling across, skin flushed from work, afternoon light creating ethereal glow, Venezuelan heat evident, Kodachrome's rendering, shot on Nikon F macro",
     mood: "temple detail"
+  },
+  {
+    prompt: "intimate detail of neck and throat, Mr. Parker 40 year old caucasian man, strong masculine features, sweat trailing down tanned skin, workshop dust catching light, Kodachrome's texture, shot on Rolleiflex macro",
+    mood: "noble throat"
   },
   {
     prompt: "extreme close up of Mr. Parker's shoulder muscle, 35 years old caucasian man, tensed from work, fine golden hair on tanned skin, sweat droplets catching light, backlit by workshop window, Kodachrome's contrast, shot on Rolleiflex macro",
